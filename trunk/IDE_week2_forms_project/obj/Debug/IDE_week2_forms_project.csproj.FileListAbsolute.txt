@@ -1,0 +1,16 @@
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\bin\Debug\IDE_week2_forms_project.exe.config
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\bin\Debug\IDE_week2_forms_project.exe
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\bin\Debug\IDE_week2_forms_project.pdb
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.csprojResolveAssemblyReference.cache
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.Form1.resources
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.Properties.Resources.resources
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.csproj.GenerateResource.Cache
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.exe
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.pdb
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.Form2.resources
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\bin\Debug\vi-VN\IDE_week2_forms_project.resources.dll
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.Form1.vi-VN.resources
+C:\Users\Ly\Documents\IDE\Assignment2\IDE_week2_solutions\IDE_week2_forms_project\obj\Debug\vi-VN\IDE_week2_forms_project.resources.dll
+C:\Users\Ly\Documents\IDE\Assignment3\Work copy\trunk\IDE_week2_forms_project\bin\Debug\IDE_week2_forms_project.exe.config
+C:\Users\Ly\Documents\IDE\Assignment3\Work copy\trunk\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.exe
+C:\Users\Ly\Documents\IDE\Assignment3\Work copy\trunk\IDE_week2_forms_project\obj\Debug\IDE_week2_forms_project.pdb
